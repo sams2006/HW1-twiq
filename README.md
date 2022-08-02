@@ -1,5 +1,3 @@
-# HW1-twiq
-
 fun main() {
     var candles = 28
    var layers = 5
